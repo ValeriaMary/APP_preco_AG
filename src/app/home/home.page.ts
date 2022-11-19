@@ -8,6 +8,8 @@ import { Component } from '@angular/core';
 export class HomePage {
 
   public resultado: String = "Resultado"
+  precoAlcool: any;
+  precoGasolina: any;
 
   calcular(){
     if( this.precoAlcool && this.precoGasolina ){
