@@ -1,0 +1,7 @@
+{
+  "name": "preco_AG",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
